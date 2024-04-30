@@ -1,0 +1,22 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.list ol li{
+    padding-left: 20px;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.braces{
+    padding-left: 100px;
+}
